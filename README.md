@@ -44,6 +44,11 @@ Throughout the course, students will engage with:
 
 ## 📁 Repository Structure
 
-### From the repository root, run:
-```bash
-tree -L 2
+
+```text
+├── data/                   # Datasets used for labs and assignments
+├── notebooks/              # Jupyter notebooks for lectures and demos
+├── presentation/           # Lecture slides and presentation material
+├── README.md               # Course overview and instructions
+└── LICENSE                 # License information
+
