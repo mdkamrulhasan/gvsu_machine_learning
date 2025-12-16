@@ -1,4 +1,4 @@
-# Machine Learning (GVSU – CIS 378 / CIS 678)
+# Machine Learning (GVSU – CIS 678)
 
 Welcome to the **Machine Learning** course repository for *Grand Valley State University* — a comprehensive introduction to core machine learning concepts, algorithms, and hands-on applications. This GitHub repo contains **lectures, notebooks, data sets, project resources, and presentations** to support your learning journey. :contentReference[oaicite:1]{index=1}
 
@@ -44,8 +44,6 @@ Throughout the course, students will engage with:
 
 ## 📁 Repository Structure
 
-├── data/ # Datasets used for labs and assignments
-├── notebooks/ # Jupyter notebooks demonstrating ML workflows
-├── presentation/ # Slides and lecture materials
-├── README.md # You are here
-└── LICENSE # License (if applicable)
+### From the repository root, run:
+```bash
+tree -L 2
